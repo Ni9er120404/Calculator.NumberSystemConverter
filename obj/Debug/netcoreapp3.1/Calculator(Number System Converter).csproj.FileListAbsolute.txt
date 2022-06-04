@@ -1,0 +1,16 @@
+C:\Users\Niger\source\repos\Calculator(Number System Converter)\Calculator(Number System Converter)\bin\Debug\netcoreapp3.1\Calculator(Number System Converter).exe
+C:\Users\Niger\source\repos\Calculator(Number System Converter)\Calculator(Number System Converter)\bin\Debug\netcoreapp3.1\Calculator(Number System Converter).deps.json
+C:\Users\Niger\source\repos\Calculator(Number System Converter)\Calculator(Number System Converter)\bin\Debug\netcoreapp3.1\Calculator(Number System Converter).runtimeconfig.json
+C:\Users\Niger\source\repos\Calculator(Number System Converter)\Calculator(Number System Converter)\bin\Debug\netcoreapp3.1\Calculator(Number System Converter).runtimeconfig.dev.json
+C:\Users\Niger\source\repos\Calculator(Number System Converter)\Calculator(Number System Converter)\bin\Debug\netcoreapp3.1\Calculator(Number System Converter).dll
+C:\Users\Niger\source\repos\Calculator(Number System Converter)\Calculator(Number System Converter)\bin\Debug\netcoreapp3.1\Calculator(Number System Converter).pdb
+C:\Users\Niger\source\repos\Calculator(Number System Converter)\Calculator(Number System Converter)\obj\Debug\netcoreapp3.1\Calculator(Number System Converter).csproj.AssemblyReference.cache
+C:\Users\Niger\source\repos\Calculator(Number System Converter)\Calculator(Number System Converter)\obj\Debug\netcoreapp3.1\Calculator_Number_System_Converter_.Form1.resources
+C:\Users\Niger\source\repos\Calculator(Number System Converter)\Calculator(Number System Converter)\obj\Debug\netcoreapp3.1\Calculator(Number System Converter).csproj.GenerateResource.cache
+C:\Users\Niger\source\repos\Calculator(Number System Converter)\Calculator(Number System Converter)\obj\Debug\netcoreapp3.1\Calculator(Number System Converter).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niger\source\repos\Calculator(Number System Converter)\Calculator(Number System Converter)\obj\Debug\netcoreapp3.1\Calculator(Number System Converter).AssemblyInfoInputs.cache
+C:\Users\Niger\source\repos\Calculator(Number System Converter)\Calculator(Number System Converter)\obj\Debug\netcoreapp3.1\Calculator(Number System Converter).AssemblyInfo.cs
+C:\Users\Niger\source\repos\Calculator(Number System Converter)\Calculator(Number System Converter)\obj\Debug\netcoreapp3.1\Calculator(Number System Converter).csproj.CoreCompileInputs.cache
+C:\Users\Niger\source\repos\Calculator(Number System Converter)\Calculator(Number System Converter)\obj\Debug\netcoreapp3.1\Calculator(Number System Converter).dll
+C:\Users\Niger\source\repos\Calculator(Number System Converter)\Calculator(Number System Converter)\obj\Debug\netcoreapp3.1\Calculator(Number System Converter).pdb
+C:\Users\Niger\source\repos\Calculator(Number System Converter)\Calculator(Number System Converter)\obj\Debug\netcoreapp3.1\Calculator(Number System Converter).genruntimeconfig.cache
